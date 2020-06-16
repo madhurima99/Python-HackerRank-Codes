@@ -4,7 +4,7 @@ Created on Sun Jun 14 08:58:06 2020
 
 @author: MADHURIMA
 """
-
+#function def
 def compareTriplets(a, b):
     score=[0,0]
     for i in range(3):
