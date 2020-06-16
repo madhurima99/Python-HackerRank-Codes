@@ -1,3 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Jun 14 08:58:06 2020
+@author: MADHURIMA
+"""
+
+
+
 def sockMerchant(n,a):
     
     b=list(set(a))
