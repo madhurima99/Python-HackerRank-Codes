@@ -2,7 +2,7 @@
 """
 Created on Thu Jun 18 19:22:09 2020
 
-@author: MADHURIMA MAJI
+@author: MADHURIMA 
 """
 def checkMagazine(magazine,note):
     
