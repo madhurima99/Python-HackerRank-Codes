@@ -18,6 +18,6 @@ def birthday(s,d,m):
     print(count)
  
 n=int(input())
-s=[int(i) for i in input().split()]
+s=[int(i) for i in input().split()][:n]
 d,m=[int(i) for i in input().split()]
 birthday(s,d,m)
