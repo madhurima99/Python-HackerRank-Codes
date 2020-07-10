@@ -12,5 +12,5 @@ def birthdayCakeCandles(a) :
     print(total)
 
 n=int(input())
-a=[int(i) for i in input().split(" ")]
+a=[int(i) for i in input().split(" ")][:n]
 birthdayCakeCandles(a)
